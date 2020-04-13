@@ -4,5 +4,3 @@ Projeto de uma estação meteorológica autossustentável desenvolvida inicialme
 ## Informações da publicação do TCC
 [Biblioteca Universitária - FURB](https://bu.furb.br/consulta/portalConsulta/recuperaMfnCompleto.php?menu=rapida&CdMFN=363865)
 
-## Download TCC em PDF
-[TCC Jairo Lenfers.pdf](TCC Jairo Lenfers.pdf)
